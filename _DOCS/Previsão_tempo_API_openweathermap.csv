@@ -1,17 +1,41 @@
 Cidades;Temperatura Máxima;Temperatura Miníma;Datas
-Belo Horizonte,MG;19ºC;19ºC;Quinta-feira,2026-01-29 06:00:00
-Belo Horizonte,MG;19ºC;19ºC;Quinta-feira,2026-01-29 09:00:00
-Belo Horizonte,MG;24ºC;23ºC;Quinta-feira,2026-01-29 12:00:00
-Belo Horizonte,MG;28ºC;28ºC;Quinta-feira,2026-01-29 15:00:00
-Belo Horizonte,MG;28ºC;28ºC;Quinta-feira,2026-01-29 18:00:00
-Belo Horizonte,MG;23ºC;23ºC;Quinta-feira,2026-01-29 21:00:00
-Belo Horizonte,MG;20ºC;20ºC;Sexta-feira,2026-01-30 00:00:00
-Belo Horizonte,MG;19ºC;19ºC;Sexta-feira,2026-01-30 03:00:00
-Belo Horizonte,MG;18ºC;18ºC;Sexta-feira,2026-01-30 06:00:00
-Belo Horizonte,MG;18ºC;18ºC;Sexta-feira,2026-01-30 09:00:00
-Belo Horizonte,MG;21ºC;21ºC;Sexta-feira,2026-01-30 12:00:00
-Belo Horizonte,MG;22ºC;22ºC;Sexta-feira,2026-01-30 15:00:00
-Belo Horizonte,MG;23ºC;23ºC;Sexta-feira,2026-01-30 18:00:00
-Belo Horizonte,MG;21ºC;21ºC;Sexta-feira,2026-01-30 21:00:00
-Belo Horizonte,MG;19ºC;19ºC;Sábado,2026-01-31 00:00:00
-Belo Horizonte,MG;18ºC;18ºC;Sábado,2026-01-31 03:00:00
+Ituverava,SP;20ºC;19ºC;Quinta-feira,2026-01-29 09:00:00
+Ituverava,SP;25ºC;24ºC;Quinta-feira,2026-01-29 12:00:00
+Ituverava,SP;29ºC;29ºC;Quinta-feira,2026-01-29 15:00:00
+Ituverava,SP;31ºC;31ºC;Quinta-feira,2026-01-29 18:00:00
+Ituverava,SP;25ºC;25ºC;Quinta-feira,2026-01-29 21:00:00
+Ituverava,SP;23ºC;23ºC;Sexta-feira,2026-01-30 00:00:00
+Ituverava,SP;20ºC;20ºC;Sexta-feira,2026-01-30 03:00:00
+Ituverava,SP;19ºC;19ºC;Sexta-feira,2026-01-30 06:00:00
+Ituverava,SP;19ºC;19ºC;Sexta-feira,2026-01-30 09:00:00
+Ituverava,SP;20ºC;20ºC;Sexta-feira,2026-01-30 12:00:00
+Ituverava,SP;21ºC;21ºC;Sexta-feira,2026-01-30 15:00:00
+Ituverava,SP;22ºC;22ºC;Sexta-feira,2026-01-30 18:00:00
+Ituverava,SP;23ºC;23ºC;Sexta-feira,2026-01-30 21:00:00
+Ituverava,SP;20ºC;20ºC;Sábado,2026-01-31 00:00:00
+Ituverava,SP;19ºC;19ºC;Sábado,2026-01-31 03:00:00
+Ituverava,SP;19ºC;19ºC;Sábado,2026-01-31 06:00:00
+Ituverava,SP;18ºC;18ºC;Sábado,2026-01-31 09:00:00
+Ituverava,SP;24ºC;24ºC;Sábado,2026-01-31 12:00:00
+Ituverava,SP;29ºC;29ºC;Sábado,2026-01-31 15:00:00
+Ituverava,SP;30ºC;30ºC;Sábado,2026-01-31 18:00:00
+Ituverava,SP;24ºC;24ºC;Sábado,2026-01-31 21:00:00
+Ituverava,SP;21ºC;21ºC;Domingo,2026-02-01 00:00:00
+Ituverava,SP;20ºC;20ºC;Domingo,2026-02-01 03:00:00
+Ituverava,SP;20ºC;20ºC;Domingo,2026-02-01 06:00:00
+Ituverava,SP;19ºC;19ºC;Domingo,2026-02-01 09:00:00
+Ituverava,SP;24ºC;24ºC;Domingo,2026-02-01 12:00:00
+Ituverava,SP;30ºC;30ºC;Domingo,2026-02-01 15:00:00
+Ituverava,SP;29ºC;29ºC;Domingo,2026-02-01 18:00:00
+Ituverava,SP;26ºC;26ºC;Domingo,2026-02-01 21:00:00
+Ituverava,SP;21ºC;21ºC;Segunda-feira,2026-02-02 00:00:00
+Ituverava,SP;20ºC;20ºC;Segunda-feira,2026-02-02 03:00:00
+Ituverava,SP;21ºC;21ºC;Segunda-feira,2026-02-02 06:00:00
+Ituverava,SP;20ºC;20ºC;Segunda-feira,2026-02-02 09:00:00
+Ituverava,SP;22ºC;22ºC;Segunda-feira,2026-02-02 12:00:00
+Ituverava,SP;27ºC;27ºC;Segunda-feira,2026-02-02 15:00:00
+Ituverava,SP;26ºC;26ºC;Segunda-feira,2026-02-02 18:00:00
+Ituverava,SP;24ºC;24ºC;Segunda-feira,2026-02-02 21:00:00
+Ituverava,SP;22ºC;22ºC;Terça-feira,2026-02-03 00:00:00
+Ituverava,SP;21ºC;21ºC;Terça-feira,2026-02-03 03:00:00
+Ituverava,SP;20ºC;20ºC;Terça-feira,2026-02-03 06:00:00

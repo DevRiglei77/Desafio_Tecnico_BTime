@@ -10,8 +10,7 @@ API_KEY = os.getenv('API_KEY_OPENWEATHERMAP')
 cidade,sigla = consulta_cidades()
 
 
-url = f"https://api.openweathermap.org/data/2.5/forecast?q={cidade}&appid={API_KEY}&lang=pt_br&cnt=16"
-
+url = f"https://api.openweathermap.org/data/2.5/forecast?q={cidade}&appid={API_KEY}&lang=pt_br&cn"
 #Essa Api retorna a previsão dos tempos de alguns dias em diferentes horarios
 def consulta_clima():
 
