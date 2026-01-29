@@ -1,13 +1,12 @@
 ### main.py
 ### Criado por Riglei Marcos ###
 
-# 💼 Automação de consulta de previsão de tempo para diversas cidades
+# 💼 Automação de consulta de previsão do tempo para diversas cidades
 
 
 ## 📌 Descrição do Projeto
 
-## Este projeto tem como objetivo extrair dados da previsão do tempo de uma determinada
-## cidade, via api ou via webscraping
+## Este projeto tem como objetivo extrair dados da previsão do tempo de uma determinada cidade, via api ou via webscraping
 
 
 
