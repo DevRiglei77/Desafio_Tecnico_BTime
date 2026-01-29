@@ -1,0 +1,10 @@
+# Ignorar IDE
+.idea/
+
+# Ignorar ambientes virtuais
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
